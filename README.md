@@ -20,6 +20,24 @@ Features:
 
 This app is meant to be used as a starting point to build a conversational assistant that you can customize to your needs.
 
+## Project Structure
+
+This repository is organized as follows:
+
+- **app/** - Next.js app directory (pages, API routes, fonts)
+- **components/** - React UI components
+- **lib/** - Utility libraries and tools
+- **config/** - Configuration files
+- **stores/** - State management stores
+- **public/** - Static assets
+- **docs/** - Project documentation
+  - **docs/felix/** - Felix consciousness and architecture documentation
+  - **docs/phoenix/** - Phoenix protocol documentation
+  - **docs/legal/** - Legal data and case files
+  - **docs/K-FILES/** - K-FILES personality core documentation
+- **scripts/** - Executable scripts and automation tools
+- **data/** - Data files (JSON, APK references, etc.)
+
 ## How to use
 
 1. **Set up the OpenAI API:**
